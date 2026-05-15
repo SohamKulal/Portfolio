@@ -18,8 +18,4 @@ Predicts whether customers of a marketing agency will churn (stop using the serv
 
 The custom logistic regression model achieves 88.9% accuracy on the test set.
 
-## How to Run
 
-1. Install dependencies: `pip install pandas numpy matplotlib seaborn scikit-learn`
-2. Place `customer_churn.csv` and `new_customers_1.csv` in the project directory.
-3. Run `customerChurn.ipynb` from start to finish. Predictions for new customers are displayed at the end.
